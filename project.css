@@ -150,7 +150,7 @@ h2{
 
 p{
   margin: 10px 0;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.6;
 }
 
@@ -219,7 +219,7 @@ p{
   text-align: center;
   max-width: 980px;
   margin: 10px auto 0;
-  font-size: 14px;
+  font-size: 17px;
   line-height: 1.35;
   color: #333;
   font-style: normal;
@@ -372,4 +372,14 @@ pre code{ color: inherit; }
   font-size: 13px;
   color: #444;
   min-height: 18px;
+}
+
+.fig-top img{
+  max-width: 760px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.fig-top figcaption{
+  font-size: 16px;
 }
